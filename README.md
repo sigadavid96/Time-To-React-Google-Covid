@@ -1,6 +1,7 @@
 Hi!
 
 Youtube Video : https://www.youtube.com/watch?v=smBmNadGMKs
+
 Implementation : Python, Pytrends and Data Science Concepts.
 
 This is a project by Davidson, Stuti and Satish for the Practical Data Science (15-688) Project at Carnegie Mellon University.
