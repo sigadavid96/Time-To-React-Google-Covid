@@ -1,5 +1,8 @@
 Hi!
 
+Youtube Video : https://www.youtube.com/watch?v=smBmNadGMKs
+Implementation : Python, Pytrends and Data Science Concepts.
+
 This is a project by Davidson, Stuti and Satish for the Practical Data Science (15-688) Project at Carnegie Mellon University.
 Studied and Implemented the design in Spring 2022.
 
@@ -14,3 +17,5 @@ How can we measure public reaction to global events?
 Why is it important?
 
 >Information on how quickly people are aware of events can be an essential tool for global organizations like WHO and the UN to take safety measures as soon as possible 
+
+Thank you for visiting!
